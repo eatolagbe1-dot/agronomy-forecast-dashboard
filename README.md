@@ -1,2 +1,19 @@
-# agronomy-forecast-dashboard
-Showing trends of crops and being able to predict future yields; this help reduce volatility.
+# Agronomy Forecast Dashboard Analysis
+
+This project contains a Quarto-based analysis focused on yield forecasting and agronomy operations.
+
+## Files
+- `eupepsia_capstone_analysis.qmd` → Main analysis file
+- `eupepsia_2026_forecast.csv` → Dataset used
+- `Pack House Register Routine Monitoring.xlsx` → Supporting data
+
+## Output
+RPubs published report:
+[PASTE YOUR RPUBS LINK HERE]
+
+## Tools Used
+- R / Quarto
+- Data Analysis & Visualization
+
+## Author
+Emmanuel Atolagbe
