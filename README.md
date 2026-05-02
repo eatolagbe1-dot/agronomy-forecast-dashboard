@@ -9,7 +9,7 @@ This project contains a Quarto-based analysis focused on yield forecasting and a
 
 ## Output
 RPubs published report:
-[PASTE YOUR RPUBS LINK HERE]
+https://rpubs.com/emaverick/1427069.
 
 ## Tools Used
 - R / Quarto
